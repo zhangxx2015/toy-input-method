@@ -1,7 +1,8 @@
 # toy-input-method
-[Project archive]2005
-Using keyboard hook API to write toy input method, support five strokes, Pinyin, English, mixed input;just for fun.
-2005年,利用keyboard hook API写的一个玩具输入法,支持拼音,五笔,英文,三种方式混合输入
+[Project archive]2005<br />
+2005年,利用keyboard hook API写的一个玩具输入法,支持拼音,五笔,英文,三种方式混合输入<br />
+Using keyboard hook API to write toy input method, support five strokes, Pinyin, English, mixed input;just for fun.<br />
+
 
 拼音输入
 ![screenshot](https://github.com/zhangxx2015/toy-input-method/blob/main/screenshot/0001%E6%8B%BC%E9%9F%B3.png?raw=true "screenshot")
